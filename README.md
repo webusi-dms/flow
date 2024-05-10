@@ -2,7 +2,7 @@
 <p align="center">
 	<img alt="logo" src="favicon.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">app v1.0.0</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">flow v1.0.0</h1>
 <h4 align="center">基于SpringBoot+Vue前后端分离的轻量级工单流程中心</h4>
 <p align="center">
 	<a href="https://gitee.com/webusi/devops/stargazers"><img src="https://gitee.com/webusi/devops/badge/star.svg?theme=dark"></a>
