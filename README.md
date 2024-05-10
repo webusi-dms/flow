@@ -5,8 +5,8 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">flow v1.0.0</h1>
 <h4 align="center">基于SpringBoot+Vue前后端分离的轻量级工单流程中心</h4>
 <p align="center">
-	<a href="https://gitee.com/webusi/devops/stargazers"><img src="https://gitee.com/webusi/devops/badge/star.svg?theme=dark"></a>
-	<a href="https://gitee.com/webusi/devops/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
+	<a href="https://gitee.com/webusi/flow/stargazers"><img src="https://gitee.com/webusi/flow/badge/star.svg?theme=dark"></a>
+	<a href="https://gitee.com/webusi/flow/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 </p>
 
 ## 平台简介
